@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAMBIT20&show_icons=true&theme=tokyonight" alt="Sambit's github stats"/>
 </a>
 <a href="https://github.com/SAMBIT20">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMBIT20&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMBIT20&layout=compactmaxwidth=100%" />
 </a>
 
 <div align="center">
