@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning react & express js.
 - 👯 I’m looking to collaborate on tech startups
 - 💬 Ask me about any difficuly you are facing in projects
-- 📫 How to reach me: https://www.linkedin.com/in/sambit-kumar-nanda-4ab90817b/
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/sambit-kumar-nanda-4ab90817b/">
+  <img align="left" alt="Sambit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 **Languages and Tools:**  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
