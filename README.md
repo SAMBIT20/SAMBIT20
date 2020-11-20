@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf_256x256.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<code><img height="40" src="https://raw.githubusercontent.com/caiogondim/javascript-environments-logos/master/node.js/standard/454x128.png"></code>  
 <a href="https://github.com/SAMBIT20">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAMBIT20&show_icons=true&theme=tokyonight" alt="Sambit's github stats"/>
 </a>
