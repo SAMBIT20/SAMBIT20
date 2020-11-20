@@ -14,6 +14,7 @@
   <img align="left" alt="Sambit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
+
 ### Hi there 👋
 Here are some ideas to get you started:
 
@@ -32,11 +33,10 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 <a href="https://github.com/SAMBIT20">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMBIT20&layout=compact" />
-</a>
-<a href="https://github.com/SAMBIT20">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAMBIT20&show_icons=true&theme=tokyonight" alt="Sambit's github stats"/>
 </a>
+<a href="https://github.com/SAMBIT20">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMBIT20&layout=compact" />
 </a>
 
 <div align="center">
