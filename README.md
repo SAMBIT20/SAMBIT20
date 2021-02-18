@@ -1,4 +1,4 @@
-<a href="https://twitter.com">
+<a href="https://twitter.com/sambit_dev">
   <img align="left" alt="Sambit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color:blue;" />
 </a>
 <a href="https://www.linkedin.com/in/sambit-kumar-nanda-4ab90817b/">
