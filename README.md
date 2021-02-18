@@ -10,7 +10,7 @@
 <a href="https://t.me/">
   <img align="left" alt="Sambit's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/sambit_dev/?hl=en">
+<a href="https://www.instagram.com/_samnanda_/?hl=en">
   <img align="left" alt="Sambit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />
 </a>
 <br/>
