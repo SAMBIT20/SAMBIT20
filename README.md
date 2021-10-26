@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sambit</h1>
-<h3 align="center">A passionate Full Stack developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Full Stack developer from India ![image](https://user-images.githubusercontent.com/50833547/138925327-298b9d34-5327-48b3-8741-a1407e73c396.png)
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambit20&label=Profile%20views&color=0e75b6&style=flat" alt="sambit20" /> </p>
 
