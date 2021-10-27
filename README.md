@@ -40,4 +40,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambit20&show_icons=true&locale=en&layout=compact" alt="sambit20" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sambit20&" alt="sambit20" /></p>
