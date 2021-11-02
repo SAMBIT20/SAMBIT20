@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://samnanda.netlify.app/](samnanda.netlify.app)
+- 👨‍💻 All of my projects are available at [samnanda.netlify.app](https://samnanda.netlify.app/)
 
-- 📝 I regularly write articles on [https://dev.to/sambit20](dev.to/sambit20)
+- 📝 I regularly write articles on [dev.to/sambit20](https://dev.to/sambit20)
 
 - 💬 Ask me about **MongoDB, Express, React, Node**
 
 - 📫 How to reach me **sambitn20@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3GkT1uW](Resume)
+- 📄 Know about my experiences [Resume](https://bit.ly/3GkT1uW)
 
 - ⚡ Fun fact **I think i am funny**
 
