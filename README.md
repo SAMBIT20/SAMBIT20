@@ -29,7 +29,10 @@
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/sambit_dev)
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/_samnanda_/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambit20&show_icons=true&locale=en&layout=compact" alt="sambit20" width="100%" height="200"/></p>
+
+
+| <a href="https://github.com/sambit20/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sambit20&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sambit's github stats" /></a> | <a href="https://github.com/sambit20/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambit20&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <p  align="center">
 <a  href="https://github.com/SAMBIT20/github-readme-activity-graph"><img  alt="Mark's Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=SAMBIT20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
