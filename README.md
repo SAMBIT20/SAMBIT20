@@ -19,14 +19,14 @@
  
 
 
-📌 Here's a link to my [Portfolio](https://samnanda.netlify.app/)
+📌 Here's a link to my [Portfolio](https://sam-nanda.netlify.app/)
 
 
 📫 How to reach me :
 
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/nandasambit/)
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/sambit_dev)
-[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/_samnanda_/)
+[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/sambit.js/)
 
 
 
