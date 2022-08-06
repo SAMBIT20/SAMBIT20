@@ -19,7 +19,7 @@
  
 
 
-📌 Here's a link to my [Portfolio](https://sam-nanda.netlify.app/)
+📌 Here's a link to my [Portfolio](https://www.samnanda.in/)
 
 
 📫 How to reach me :
