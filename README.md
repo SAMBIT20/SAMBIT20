@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sambit</h1>
-<h3 align="center">A passionate front end developer from India 🇮🇳</h3>
+<a href="https://github.com/sambit20" title="portfolio">
+  <img src="https://github-cool-covers.vercel.app/api/get-cover?username=sambit20&text=Hi+I%27m+Sambit&fontFamily=Rubik%20Distressed&pattern=p6&textFontSize=4.5rem&textWordSpacing=25px" alt="Please reload as it seems the image is not loaded properly" width="100%">
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambit20&label=Profile%20views&color=0e75b6&style=flat" alt="sambit20" /> </p>
 
