@@ -20,7 +20,6 @@
  
 
 
-📌 Here's a link to my [Portfolio](https://www.samnanda.in/)
 
 
 📫 How to reach me :
