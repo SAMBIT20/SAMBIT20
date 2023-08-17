@@ -12,35 +12,49 @@
 
 I'm a passionate front-end developer . I love creating intuitive and user-friendly web interfaces using the latest web technologies. My goal is to build high-quality websites that not only look great but also provide an excellent user experience.
 
-## Skills
+## Skills 🎯
 
-**💻 Front-end Technologies:**
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%;"><strong>💻 Front-end Technologies:</strong></td>
+    <td style="width: 50%;"><strong>🚀 Other Skills:</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>React.js</li>
+        <li>Next.js</li>
+        <li>Redux</li>
+        <li>JavaScript (ES6+)</li>
+        <li>TypeScript</li>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>Responsive Web Design</li>
+        <li>MUI</li>
+        <li>Tailwind CSS</li>
+        <li>RESTful APIs</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Node.js</li>
+        <li>Webpack</li>
+        <li>Babel</li>
+        <li>Git</li>
+        <li>Unit Testing</li>
+        <li>Performance Optimization</li>
+        <li>Scalability</li>
+        <li>Team Collaboration</li>
+        <li>Problem Solving</li>
+        <li>Continuous Learning</li>
+        <li>Time Management</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- React.js
-- Next.js
-- Redux
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-- Responsive Web Design
-- MUI
-- Tailwind CSS
-- RESTful APIs
 
-**🚀Other Skills:**
 
-- Node.js
-- Webpack
-- Babel
-- Git
-- Unit Testing
-- Performance Optimization
-- Scalability
-- Team Collaboration
-- Problem Solving
-- Continuous Learning
-- Time Management
 
 
 📫 How to reach me :
